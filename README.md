@@ -77,7 +77,7 @@ Ensure you have the following installed before setting up the project:
      npm start
      ```
 
-The frontend should now be running at `http://localhost:3000`, and the backend will be running on `http://localhost:5000`.
+The frontend should now be running at `http://localhost:3000`, and the backend will be running on `http://localhost:8000`.
 
 ## Usage Instructions
 
